@@ -49,41 +49,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-### 📊 Business Intelligence Dashboard
 
-Interactive dashboards designed to transform raw data into meaningful KPIs, trends, and actionable insights.
 
-**Tools:** Power BI • Excel
 
-### 🍎 Apple Stock Analysis Dashboard
-
-Analysis of historical Apple stock data to explore price trends, growth, performance, and key financial indicators.
-
-**Tools:** Excel • Power BI
-
-### 🇳🇬 Digital Technology & Youth Unemployment in Nigeria
-
-A data-driven research project exploring the relationship between digital technology and youth unemployment in Nigeria.
-
-**Tools:** Excel • Data Analysis • Visualization
-
----
-
-# 🎯 My Analytics Journey
-
-```text
-Economics
-    ↓
-Excel
-    ↓
-Data Analysis
-    ↓
-SQL
-    ↓
-Power BI
-    ↓
-Business & Financial Analytics
-    ↓
-FinTech
